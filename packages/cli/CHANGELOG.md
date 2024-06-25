@@ -1,5 +1,15 @@
 # @aws-amplify/backend-cli
 
+## 1.1.0
+
+### Minor Changes
+
+- e684646: Add support to input secret value using redirection
+
+### Patch Changes
+
+- c93357c: Fixed the issue where an error message is printed twice
+
 ## 1.0.4
 
 ### Patch Changes
