@@ -1,5 +1,19 @@
 # @aws-amplify/backend-cli
 
+## 1.1.0
+
+### Minor Changes
+
+- e684646: Add support to input secret value using redirection
+
+### Patch Changes
+
+- c93357c: Fixed the issue where an error message is printed twice
+- cd9808a: Show all options in output of `generate graphql-client-code --help`
+- Updated dependencies [4b249ed]
+- Updated dependencies [20bf679]
+  - @aws-amplify/client-config@1.0.5
+
 ## 1.0.4
 
 ### Patch Changes

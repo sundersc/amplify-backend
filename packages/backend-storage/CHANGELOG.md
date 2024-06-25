@@ -1,5 +1,11 @@
 # @aws-amplify/backend-storage
 
+## 1.0.4
+
+### Patch Changes
+
+- 545f61d: update "available action" url under storage
+
 ## 1.0.3
 
 ### Patch Changes
