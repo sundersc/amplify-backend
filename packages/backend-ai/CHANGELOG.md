@@ -1,5 +1,15 @@
 # @aws-amplify/backend-ai
 
+## 0.3.5
+
+### Patch Changes
+
+- b56d344: update aws-cdk lib to ^2.158.0
+- Updated dependencies [b56d344]
+  - @aws-amplify/backend-output-storage@1.1.3
+  - @aws-amplify/ai-constructs@0.7.1
+  - @aws-amplify/plugin-types@1.3.1
+
 ## 0.3.4
 
 ### Patch Changes
