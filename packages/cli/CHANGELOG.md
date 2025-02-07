@@ -1,5 +1,14 @@
 # @aws-amplify/backend-cli
 
+## 1.4.10
+
+### Patch Changes
+
+- de90deb: Added catch blocks for EACCES Errors
+- 6faa636: Add data and ai packages to ampx info output
+- Updated dependencies [de90deb]
+  - @aws-amplify/client-config@1.5.7
+
 ## 1.4.9
 
 ### Patch Changes
